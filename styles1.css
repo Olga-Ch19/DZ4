@@ -1,0 +1,23 @@
+body {
+    font-size: 40px;
+}
+body {
+    font-size: large;
+}
+body {
+    font-style: normal;
+}
+/*body {
+    font-style: oblique;
+}
+    это текст наклоном
+*/
+span.black {
+    color: rgb(26, 24, 24);
+}
+h1,green {
+    color: green;
+}
+ol,li1,yellow {
+    color: yellow
+}
